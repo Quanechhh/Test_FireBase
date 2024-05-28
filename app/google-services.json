@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "320546109530",
-    "project_id": "projectandroid-97577",
-    "storage_bucket": "projectandroid-97577.appspot.com"
+    "project_number": "27887632235",
+    "firebase_url": "https://testfirebase-b80a0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testfirebase-b80a0",
+    "storage_bucket": "testfirebase-b80a0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:320546109530:android:69a1bf4a248b87cc7dc063",
+        "mobilesdk_app_id": "1:27887632235:android:44c50bb56892992c7c962e",
         "android_client_info": {
           "package_name": "com.example.test_firebase"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBUr6tdXQ_b1HBiSpVTzsa9kvSNOY4wUis"
+          "current_key": "AIzaSyCVMb-n6TPHff2ksbHnvaej_tq8Ebll5Pg"
         }
       ],
       "services": {
